@@ -1,3 +1,4 @@
+<h1>Multipication</h1>
 function Multi(a, b) {
     return a * b;
 }
